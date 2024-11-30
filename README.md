@@ -1,2 +1,2 @@
-# flareos-win.github.io
+# floweros-win.github.io
 The official source code of the website.
